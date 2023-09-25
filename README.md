@@ -1,4 +1,4 @@
-# Image Processing Application Documentation (Image filter)
+# Image Processing Application Documentation (Image filters)
 
 ## Overview
 The Image Processing application is a Java program that allows users to perform various image manipulation tasks on a selected image file. It provides functionalities such as applying filters, converting to grayscale, zooming, and saving the modified image.  **`(m2husnainnaeem@gmail.com  feel free to contact for custom modification and other developments )`**
